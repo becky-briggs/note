@@ -21,7 +21,7 @@ class List extends React.Component {
 
     return (
       <div className="list-container">
-        List Component
+        {cards}
       </div>
     );
   }
